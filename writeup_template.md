@@ -120,7 +120,7 @@ Here are the results of the prediction:
 | Dangerous curve to the left      		| Dangerous curve to the left   									| 
 | Dangerous curve to the right     			| Dangerous curve to the right										|
 | Double curve					| Double curve											|
-| Slippery roa	      		| Slippery road				 				|
+| Slippery road	      		| Slippery road				 				|
 | Pedestrians			| Pedestrians      							|
 
 
