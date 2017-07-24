@@ -126,7 +126,7 @@ Here are the results of the prediction:
 
 The model was able to correctly guess 5 of the 5 traffic signs, which gives an accuracy of 100%. 
 
-For the first image, the model is relatively sure that this is a stop sign (probability of 0.6), and the image does contain a stop sign. The top five soft max probabilities were
+For the first image, the model is relatively sure that this is a "Dangerous curve to the left" sign (probability of more than 0.8), and the image does contain a "Dangerous curve to the left" sign. The top five soft max probabilities were
 
 ![alt text][image10]
 
